@@ -7,7 +7,7 @@
     'category': 'Extra Tools',
     'summary': """This module serves the purpose of creating predefined task to project according to the category of the project.""",
     'description': """ This module serves the purpose of creating predefined task to project according to the category of the project. """,
-    'author': 'Aravind',
+    'author': 'Digitz Technologies',
     'depends': ['project'],
     'license': 'LGPL-3',
     'data': [
