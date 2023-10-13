@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'Project Default Task',
-    'version': '16.0.1',
+    'version': '16.0.2',
     'sequence': 1,
     'website': 'https://digitztech.com',
     'category': 'Extra Tools',
