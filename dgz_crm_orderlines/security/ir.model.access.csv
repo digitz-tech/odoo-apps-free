@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+dgz_crm_customization.access_crm_lead_products,access_crm_lead_products,dgz_crm_orderlines.model_crm_lead_products,,1,1,1,1
+
